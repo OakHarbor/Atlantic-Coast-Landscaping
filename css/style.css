@@ -177,7 +177,7 @@ h3 {
 }
 
 .service-item:nth-child(1) .service-image {
-    background: url("/images/image-19-crop.jpg");
+    background: url("/images/image-5-crop.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -212,7 +212,7 @@ h3 {
 }
 
 .deck .service-item:nth-child(2) .service-image {
-    background: url("/images/image-9.jpg");
+    background: url("/images/image-2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -226,7 +226,7 @@ h3 {
 }
 
 .deck .service-item:nth-child(4) .service-image {
-    background: url("/images/image-14-crop.jpg");
+    background: url("/images/image-3-crop.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -376,7 +376,7 @@ h3 {
 <--- -------------------------- -*/
 
 #experience {
-    background: url("/images/image-17.jpg");
+    background: url("/images/grass.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -391,7 +391,7 @@ h3 {
     background: var(--primary);
     top: 0;
     left: 0;
-    opacity: .95;
+    opacity: .75;
 }
 
 #experience .container {
@@ -1983,7 +1983,7 @@ form p{
     .get-left {
         width: 50%;
         height: 500px;
-        background: url("/images/image-7.jpg");
+        background: url("/images/flyover.jpg");
         position: relative;
         z-index: 100;
     }
@@ -2247,7 +2247,7 @@ form p{
     .why-us-image {
         height: 100%;
         width: 100%;
-        background: url("/images/image-10.jpg");
+        background: url("/images/house.jpg");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -2381,7 +2381,7 @@ form p{
     .get-left {
         width: 50%;
         height: 500px;
-        background: url("/images/image-7.jpg");
+        background: url("/images/flyover.jpg");
         position: relative;
         z-index: 100;
     }
