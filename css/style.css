@@ -2188,6 +2188,16 @@ form p{
         width: 23%;
     }
 
+    .top-group {
+        justify-content: center;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+    }
+
+    .margin {
+        margin: 0 40px;
+    }
+
     /*-- -------------------------- -->
     <---          Gallery           -->
     <--- -------------------------- -*/
