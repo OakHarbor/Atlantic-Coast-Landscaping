@@ -684,7 +684,7 @@ form p{
 <--- -------------------------- -*/
 
 #get-started {
-    background: url("/images/image-14.jpg");
+    background: url("/images/image-2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1387,6 +1387,16 @@ form p{
                 justify-content: space-between;
     }
 
+    .top-group {
+        justify-content: center;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+    }
+
+    .margin {
+        margin: 0 40px;
+    }
+
     .service-item {
         width: 23%;
     }
@@ -1784,6 +1794,16 @@ form p{
         -webkit-box-pack: justify;
             -ms-flex-pack: justify;
                 justify-content: space-between;
+    }
+
+    .top-group {
+        justify-content: center;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+    }
+
+    .margin {
+        margin: 0 40px;
     }
 
     .service-item {
