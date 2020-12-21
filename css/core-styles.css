@@ -791,6 +791,10 @@ footer a svg {
 		padding-top: 100px;
 	}
 
+	footer p {
+		margin-bottom: 0;
+	}
+
 	.footer-container {
 		display: -webkit-box;
 		display: -ms-flexbox;
